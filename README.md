@@ -62,6 +62,14 @@ brew install lucassabreu/tap/clockify-cli
 sudo snap install clockify-cli
 ```
 
+#### Using [`AUR`](https://aur.archlinux.org/packages/clockify-cli-bin)
+
+```sh
+yay -S clockify-cli-bin
+# or
+pamac install clockify-cli-bin
+```
+
 #### Using `go install`
 
 ```sh
